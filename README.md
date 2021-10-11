@@ -10,4 +10,6 @@ First HW Assignment for GT-August 2021
 
 * URL to find the website on Github: https://nsschmidt37.github.io/HW-1/
 
-* An example photo has been included: (./assets/HW-1_Example.png)
+*An example photo is included.
+![Image of running website page] (./assets/images/HW-1_Example.png)
+
